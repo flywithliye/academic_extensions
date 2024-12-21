@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Modify layout of Elsevier articles by removing specific elements, adjusting class names, and justifying text
-// @author       Yeli
+// @author       Ye Li
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sciencedirect.com
 // @match        https://www.sciencedirect.com/science/article/pii/*
 // @grant        none
